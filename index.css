@@ -287,13 +287,13 @@
 }
 
 .overlay-text h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin: 0 0 1rem;
 }
 
 .overlay-text p {
     font-family: serif;
-  font-size: 13pxrem;
+  font-size: 13px;
   margin: 0 0 1rem;
 }
 
