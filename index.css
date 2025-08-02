@@ -227,7 +227,7 @@
         justify-content: space-between;
       }
       .box-a {
-        background-color: #0056b3;
+        background: url(images/img-2.jpg);
       }
       .box-b {
         background-color: #ff0404;
